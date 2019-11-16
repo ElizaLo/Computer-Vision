@@ -17,6 +17,14 @@ The program is expected in C ++ without the use of libraries to calculate the co
 - [ ] **C++**
   - [**Eigen**](http://eigen.tuxfamily.org/index.php?title=Main_Page) is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
   - [**Boost**](https://www.boost.org) library
-- [ ] **Pybind11** — Seamless operability between C++11 and Python
-  - [GitHub](https://github.com/pybind/pybind11)
-  - [Documentation](https://pybind11.readthedocs.io/en/master/)
+
+## Useful links
+
+- [ ] Mathematics
+    - [Homography from point pairs](http://cmp.felk.cvut.cz/cmp/courses/XE33PVR/WS20072008/Lectures/Geometry/homography.pdf)(Projective transformation, Collineation)
+    - [How to compute homography matrix H from corresponding points (2d-2d planar Homography)](https://math.stackexchange.com/questions/494238/how-to-compute-homography-matrix-h-from-corresponding-points-2d-2d-planar-homog) 
+- [ ] Articles in **Wikipedia**
+    - [Проективное преобразование](https://ru.wikipedia.org/wiki/Проективное_преобразование)
+    - [Homography (Computer Vision)](https://en.wikipedia.org/wiki/Homography_(computer_vision))
+    - [Гармоническая четвёрка](https://ru.wikipedia.org/wiki/Гармоническая_четвёрка)
+    - [Вещественное число]()
