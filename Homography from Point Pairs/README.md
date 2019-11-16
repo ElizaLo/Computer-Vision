@@ -17,6 +17,6 @@ The program is expected in C ++ without the use of libraries to calculate the co
 - [ ] **C++**
   - [**Eigen**](http://eigen.tuxfamily.org/index.php?title=Main_Page) is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
   - [**Boost**](https://www.boost.org) library
-- [ ] **Pybind11 — Seamless operability between C++11 and Python
+- [ ] **Pybind11** — Seamless operability between C++11 and Python
   - [GitHub](https://github.com/pybind/pybind11)
   - [Documentation](https://pybind11.readthedocs.io/en/master/)
