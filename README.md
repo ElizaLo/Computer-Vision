@@ -1,4 +1,4 @@
-# Computer Vision
+<img src="https://github.com/ElizaLo/Computer-Vision/blob/master/img/Banner_CV.png" width="900" height="100">
 
 ## 🎓 Top University Courses 
 
