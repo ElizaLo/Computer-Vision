@@ -1,5 +1,7 @@
 <img src="https://github.com/ElizaLo/Computer-Vision/blob/master/img/Banner_CV.png" width="900" height="100">
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElizaLo%2FComputer-Vision&count_bg=%23055201&title_bg=%23B5B5BC&icon=python.svg&icon_color=%23E7E7E7&title=Repository+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 🎓 Top University Courses 
 
 **Introductory Lectures:**
